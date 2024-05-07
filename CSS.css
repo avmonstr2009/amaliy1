@@ -1,0 +1,51 @@
+Текст задания
+Открыть Домашнюю работу из урока 1.
+Создать файл стилей style.css
+Подключить ко всем страницам
+Задать стиль a { text-decoration: none; }
+Проверить работу стилей на всех страницах.
+Ekranni 2 qismga bo'ling, uslublar fayli o'ng tomonda joylashganligiga ishonch hosil qiling va barchasi html-файлыchap tomonda edilar.
+Barcha menyu havolalari uchun sinfni o'rnating (mantiqiy sinf nomini o'ylab toping)
+rang: makkajo'xori ko'k;
+font-size: 16px;
+line-height: 20px;
+Loyihaning barcha sahifalarida uslublar ko'rinishini tekshiring.
+Saytdagi barcha h1 sarlavhalari uchun sinf va uslubni o'rnating
+color: #222222;
+font-size: 28px;
+line-height: 36px;
+font-weight: bold;
+Loyihadagi barcha paragraflar uchun sinf o'rnating.
+Ushbu sinf uchun uslublarni o'rnating:
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 30px;
+color: #7D7987;
+h2 sarlavhalari uchun sinf o'rnating.
+Ushbu sinf uchun uslubni belgilang:
+color: coral;
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 80px;
+Agar bu seminarda bajarilmagan bo'lsa, kod muharririni yuklab oling va sozlang.
+Bo'sh papka yarating va nom bilan tanishing.
+Birinchi html sahifasini yarating (index.html).
+Html hujjatning tuzilishini qo'shing.
+Sayt menyusini qo'shish (Sayt menyusi har bir sahifada bo'lishi kerak, u bir xil bo'lishi kerak): ###### a. Uy ###### b. Katalog ###### c. Kontaktlar
+“Uy sahifa” matni bilan h1 sarlavhasini yarating.
+Ixtiyoriy matn (lorem) bilan p paragrafini qo'shing (biz vsc-da allaqachon o'rnatilgan emmet kengaytmasidan foydalanamiz, buning uchun lorem kiriting va tab tugmasini bosing).
+“Saytga xush kelibsiz” matni bilan h2 sarlavhasini yarating.
+Erkin matnli uchta p paragraf qo'shing (lorem).
+index.html fayli yonida katalog papkasini yarating.
+Katalog papkasida catalog.html faylini yarating.
+"Katalog" sahifasida strukturani qo'shing html-документа.
+Sayt menyusini qo'shing (asosiy sahifadagi kabi).
+“Katalog” matni bilan h1 sarlavhasini qo'shing.
+Buning uchun 150 so'zdan iborat bepul matnli p paragrafini yarating, "lorem150" ni kiriting va yorliqni bosing.
+Sayt menyusini bosganingizda va katalog sahifasidan asosiy sahifaga o'tganingizda asosiy sahifadan katalog sahifasiga o'tishni amalga oshiring.
+Img papkasini yarating va uni index.html yoniga qo'ying.
+img jildiga mahsulotlarning o'zboshimchalik bilan rasmlarini qo'shing, siz o'zingizning mavzuingiz bo'yicha istalgan fotosuratni tanlashingiz mumkin; https://www.freepik.com/search?format=search&orientation=portrait&query=products
+"Katalog" sahifasida h1 sarlavhasi va p paragrafdan keyin ###### a qo'shing. Mahsulot tasviri ###### b. Mahsulot nomi ###### c. Mahsulot tavsifi
+Katalog sahifasiga 3 ta shunday mahsulotni qo'shing (3 dan ortiq mahsulot qo'shmaslik kerak)
